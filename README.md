@@ -1,1 +1,1 @@
-# CountingApp
+# Counting app 
